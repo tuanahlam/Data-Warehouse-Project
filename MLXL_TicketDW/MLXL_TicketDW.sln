@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "MLXL_TicketDW", "MLXL_TicketDW\MLXL_TicketDW.dtproj", "{13D7CB3C-722A-41E7-B3FF-41240D6025FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13D7CB3C-722A-41E7-B3FF-41240D6025FB}.Development|Default.ActiveCfg = Development
+		{13D7CB3C-722A-41E7-B3FF-41240D6025FB}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28DCBE86-6B7E-4364-82BB-EEE308C70129}
+	EndGlobalSection
+EndGlobal

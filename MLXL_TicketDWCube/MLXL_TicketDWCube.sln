@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "MLXL_TicketDWCube", "MLXL_TicketDWCube\MLXL_TicketDWCube.dwproj", "{1F03BC93-C0D2-4E7A-A827-C5FFEA189769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F03BC93-C0D2-4E7A-A827-C5FFEA189769}.Development|Default.ActiveCfg = Development
+		{1F03BC93-C0D2-4E7A-A827-C5FFEA189769}.Development|Default.Build.0 = Development
+		{1F03BC93-C0D2-4E7A-A827-C5FFEA189769}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {002B69E2-0895-456C-8E71-455966EBDEE4}
+	EndGlobalSection
+EndGlobal
